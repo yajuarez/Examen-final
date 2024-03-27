@@ -1,2 +1,3 @@
-let nombre= "yazmin"
-console.log (nombre)
+
+let edad= 27;
+console.log (edad)
