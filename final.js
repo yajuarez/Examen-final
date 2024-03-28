@@ -125,15 +125,15 @@ function tipoFigura (lados, longitudLado){
     }
     else {
     perimetro = lados* longitudLado
-    console.log ("El perimetro de Poligono es:", perimetro)
+    console.log ("El perimetro de Poligono es:", perimetro);
     }
     }
   
-  tipoFigura (-1, 4)
-  tipoFigura (1, 4)
-  tipoFigura (2, 5)
-  tipoFigura (3, 5)
-  tipoFigura (4, 6)
-  tipoFigura (5, 6)
-  tipoFigura (6, 8)
-  tipoFigura (7, 8)
+  tipoFigura (-1, 4);
+  tipoFigura (1, 4);
+  tipoFigura (2, 5);
+  tipoFigura (3, 5);
+  tipoFigura (4, 6);
+  tipoFigura (5, 6);
+  tipoFigura (6, 8);
+  tipoFigura (7, 8);
